@@ -32,3 +32,17 @@ Runner Detection
 ByteTrack Multi-Object Tracking
     ↓
 Tracked Output Video
+
+## Results
+
+The following examples demonstrate runner detection and multi-object tracking using YOLOv8 and ByteTrack. Bounding boxes, tracking IDs, and confidence scores are displayed for detected targets across different race scenes.
+
+### Sample Tracking Results
+
+<p align="center">
+  <img src="assets/result_1.png" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/result_2.png" width="800">
+</p>
